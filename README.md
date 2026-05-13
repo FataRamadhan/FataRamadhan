@@ -52,13 +52,13 @@ Saya menggunakan berbagai teknologi untuk membangun aplikasi yang handal dan ska
 </div>
 <br/>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SulthanRaghib&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=FataRamadhan&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatarmdhn-max&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FataRamadhan&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
@@ -68,5 +68,5 @@ Saya menggunakan berbagai teknologi untuk membangun aplikasi yang handal dan ska
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=fatarmdhn-max&icon=5&color=2" alt="Visitors" />
+  <img src="https://visitcount.itsvg.in/api?id=FataRamadhan&icon=5&color=2" alt="Visitors" />
 </p>
