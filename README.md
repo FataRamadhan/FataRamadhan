@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-Saya adalah seorang mahasiswa Teknik Informatika yang memiliki hasrat besar dalam pengembangan aplikasi web. Saya senang mengubah ide menjadi kode yang efisien dan fungsional.
+Saya adalah seorang mahasiswa Sistem Informasi yang memiliki hasrat besar dalam pengembangan aplikasi web. Saya senang mengubah ide menjadi kode yang efisien dan fungsional.
 
 - 🔭 Saya saat ini sedang fokus mendalami **Laravel & React Ecosystem**
 - 🌱 Sedang menempuh pendidikan di **STT Terpadu Nurul Fikri**
